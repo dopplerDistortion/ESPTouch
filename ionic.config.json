@@ -1,5 +1,7 @@
 {
   "name": "ESP Touch",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
